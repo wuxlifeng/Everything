@@ -20,8 +20,8 @@ Others
 > * better expression genghaodeshuyu, your option and default
 > * **yiqiedetaoludoushishejiao**
 > * 10:54
-> * 
-> * 
+> * dajiadeliliang zhongchou wikipedia vs zhihu
+> * banquanzhaopian 
 > * 
 
 Intuitive
