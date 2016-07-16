@@ -2,8 +2,8 @@
 ## 感谢你给我机会上场
 
 ### 视频链接
->     * [Youku](http://v.youku.com/v_show/id_XNzg2MDQyNzYw.html)
->     * [Youtube](https://www.youtube.com/watch?v=ptp7l9O1Q1A)
+> * [Youku](http://v.youku.com/v_show/id_XNzg2MDQyNzYw.html)
+> * [Youtube](https://www.youtube.com/watch?v=ptp7l9O1Q1A)
 
 
 ### 简介
@@ -204,5 +204,5 @@
 > 关键是什么？关键就是我们的三观，三观你对了，你的滤波器对了，你的信噪比好了，你的信号增强能力强了，就所有的正能量全进来了，所有负能量全扔掉了。
 
 ### 意外发现
-> 作者图书《感谢你给我机会上场》[豆瓣](https://book.douban.com/subject/26393024/)
+> 作者图书《感谢你给我机会上场》，[豆瓣](https://book.douban.com/subject/26393024/)
 
