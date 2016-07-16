@@ -20,11 +20,10 @@ Chrome 上装有 Google Dictionary 扩展程序/插件（Extension/Plugin），�
 >   * 点击列表右上侧 Export to Google Sheet，单词列表可出现在 Google spreadsheets 中
 >     * 而 Google spreadsheets 是 Google Drive 的一部分
 
-上面这段话是后来补写进去的，这件事情发生后，我写下了这篇标题**“把所有翻译的问题都交给 Google Translate”**，这样写有点标题党呢，补上一句废话：当然，能交给它的都交给它。
+上面这段话是我后来补写的。这个过程发生后，我写下了这篇标题**“把所有翻译的问题都交给 Google Translate”**，这样写有点标题党，于是补上一句废话：当然，能交给它的都交给它。
 
-你的工作
-> * 翻译笔记，有这件事
-> * 挑出精彩的出来
+Google Translate 帮我们做完这些工作后，我觉得还有如下工作：
+> * 写翻译笔记，挑精彩的翻译点来写
 
 ### 回忆
 我曾这样描述、研究过 Google Translate：
