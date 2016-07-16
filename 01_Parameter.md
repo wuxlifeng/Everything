@@ -23,7 +23,9 @@
 > * 10:54
 > * dajiadeliliang zhongchou wikipedia vs zhihu 大家的力量 众筹 维基百科vs知乎
 > * banquanzhaopian 版权照片
-> * 
+> * 字、词、成语，APP 推荐；年、
+> * 维基百科、知乎链接
+> * 秩序、权威，权威评价 links
 
 ### Intuitive
 > * Loctite 638 0.25 guchi
@@ -42,8 +44,9 @@
 > * 11:00
 
 **从最难搞的事情开始做**。
-
-难度指数、重要指数、影响指数
+> * 难度指数
+> * 重要指数
+> * 影响指数
 
 
 
