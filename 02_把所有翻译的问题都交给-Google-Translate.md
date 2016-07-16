@@ -14,8 +14,11 @@ Chrome 上装有 Google Dictionary 扩展程序/插件（Extension/Plugin），�
 > * 打开 Chrome
 > * 点击单词
 > * 跳出的 Google Dictionary 小页面右下角点击 More
-> * 跳出了 Google Translate，点击右侧框左下角的 ☆，右上侧 Show Phrasebook 跳出角标，提示有新单词加入；点击 Show Phrasebook，单词出现在了 Show Phrasebook 列表；点击列表右上侧 Export to Google Sheet，单词列表可展现在 Google spreadsheets 中；而 Google spreadsheets 是 Google Drive 的一部分
-> * 
+> * 跳出了 Google Translate，
+>   * 点击右侧框左下角的 ☆，右上侧 Show Phrasebook 跳出角标，提示有新单词加入
+>   * 点击 Show Phrasebook，单词出现在了 Show Phrasebook 列表
+>   * 点击列表右上侧 Export to Google Sheet，单词列表可出现在 Google spreadsheets 中
+>     * 而 Google spreadsheets 是 Google Drive 的一部分
 
 上面这段话是后来补写进去的，这件事情发生后，我写下了这篇标题**“把所有翻译的问题都交给 Google Translate”**，这样写有点标题党呢，补上一句废话：当然，能交给它的都交给它。
 
