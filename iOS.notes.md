@@ -139,3 +139,26 @@ Calibre【xxxx 暂时未找到】
 > * p.正文前，《时代周刊》1936.12.28【一个有传统的报纸可以记录多少事件……】
 > * 符号：‽ 疑问惊叹号 Interrobang
 > * 豆瓣：https://book.douban.com/annotation/27265405/
+
+读书笔记
+> * 第一次工业革命：1760-1820/1840，水力、蒸汽机
+> * The Industrial Revolution was the transition to new manufacturing processes in the period from about 1760 to sometime between 1820 and 1840. This transition included going from hand production methods to machines, new chemical manufacturing and iron production processes, improved efficiency of water power, the increasing use of steam power, the development of machine tools and the rise of the factory system. Textiles were the dominant industry of the Industrial Revolution in terms of employment, value of output and capital invested; the textile industry was also the first to use modern production methods.
+> * 第二次工业革命：the Technological Revolution，1780-1914，电力
+> * The Second Industrial Revolution, also known as the Technological Revolution,1 was a phase of rapid industrialization in the final third of the 19th century and the beginning of the 20th. The First Industrial Revolution, which ended in the early-mid 1800s, was punctuated by a slowdown in macroinventions before the Second Industrial Revolution in 1870. Though a number of its characteristic events can be traced to earlier innovations in manufacturing, such as the invention of the Bessemer Process in 1856, the Second Industrial Revolution is generally dated between 1870 and 1914 up to the start of World War I.2 Advancements in manufacturing and production technology enabled the widespread adoption of preexisting technological systems such as telegraph and railroad networks, gas and water supply, and sewage systems, which had earlier been concentrated to a few select cities. The enormous expansion of rail and telegraph lines after 1870 allowed unprecedented movement of people and ideas, which culminated in a new wave of globalization. In the same period new systems were introduced, most significantly electrical power and telephones. The Second Industrial Revolution continued into the 20th century with early factory electrification and the production line, and ended at the start of the First World War.
+> * 第三次工业革命（the Third Industrial Revolution）：Digital Revolution，电子设备、信息技术
+> * The Digital Revolution, known as the Third Industrial Revolution, is the change from analog, mechanical, and electronic technology to digital technology which began anywhere from the late 1950s to the late 1970s with the adoption and proliferation of digital computers and digital record keeping that continues to the present day. Implicitly, the term also refers to the sweeping changes brought about by digital computing and communication technology during (and after) the latter half of the 20th century. Analogous to the Agricultural Revolution and Industrial Revolution, the Digital Revolution marked the beginning of the Information Age.
+> * 数字革命，也称为第三次工业革命，是从模拟，机械，电子技术，开始任何地方从50年代末到70年代末的采用和数字化计算机和数字记录保存扩散的持续的变化，并以数字化技术到目前的一天。含蓄，这个词也指的是在（后）所带来的数字计算和通信技术的巨大变化后，20世纪上半叶。类似于农业革命和工业革命，数字革命标志着信息时代的开始。
+> * 第四次工业革命：Industry 4.0
+> * 大数据、物联网
+> * 第一宇宙速度（first cosmic velocity）：环绕地球速度，7.9km/s
+> * 实际上，地球表面存在稠密的大气层，航天器不可能贴近地球表面作圆周运动，必需在150千米的飞行高度上，才能绕地球作圆周运动。在此高度下的环绕速度为7.8千米/秒。
+> * 第二宇宙速度（second cosmic velocity）：脱离地球速度，11.2km/s
+> * 第三宇宙速度（third cosmic velocity）：脱离太阳系速度，16.7km/s
+> * 第四宇宙速度（fourth cosmic velocity）：脱离银河系速度，估算 52.5km/s
+> * 其他
+> * 地球半径
+> * 光速
+> * E = mc^2
+
+
+
