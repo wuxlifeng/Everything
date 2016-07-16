@@ -2,8 +2,8 @@
 ## 感谢你给我机会上场
 
 ### 视频链接
->    * [Youku](http://v.youku.com/v_show/id_XNzg2MDQyNzYw.html)
->    * [Youtube]()https://www.youtube.com/watch?v=ptp7l9O1Q1A)
+>     * [Youku](http://v.youku.com/v_show/id_XNzg2MDQyNzYw.html)
+>     * [Youtube](https://www.youtube.com/watch?v=ptp7l9O1Q1A)
 
 
 ### 简介
