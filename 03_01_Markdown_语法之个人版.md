@@ -16,6 +16,8 @@
   * Item 2a
   * Item 2b
 
+> 标记：Run `brew help` to get started
+
 ## 意外发现
 要实现意外发现，需要先把 Markdown 语法 Disable 掉。
 > * \
