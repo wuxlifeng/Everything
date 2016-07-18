@@ -1,7 +1,11 @@
 
 ## Markdown 语法之个人版
 
-无论怎样，它都是基础的基础：
+### 本文目的
+> * 本文持续更新，定期总结，直至熟练使用
+> * 最后总结成第一份个人版 Cheatsheet
+
+### 无论怎样，基础的基础在这里
 > [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 
 ### 实例 vs 反例
@@ -20,11 +24,11 @@
 
 > Strikethrough 删除线，use `~~` for ~~ksdfghj~~
 
-## 意外发现
+### 意外发现
 要实现意外发现，需要先把 Markdown 语法 Disable 掉。
 > * \
 
-偶尔在在评论框中有如下发现：
+### 偶尔在在评论框中有如下发现：
 > * # // 后有空格
 > * ## // 后有空格
 > * \### // 后有空格。备注：加不加一个“\”，显示不同。
@@ -39,10 +43,10 @@
 
 
 
-## Question
+### Question
 > * 作为文本的链接内文字无法加粗
 
-## Q&A 
+### Q&A 
 > * 缩进之再缩进
 >   * 开始加上两个空格
 > * disable markdown
