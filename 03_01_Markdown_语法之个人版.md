@@ -18,7 +18,7 @@
 
 > 标记：Run `brew help` to get started
 
-> \~\~ for ~~ksdfghj~~
+> Strikethrough 删除线，use `~~` for ~~ksdfghj~~
 
 ## 意外发现
 要实现意外发现，需要先把 Markdown 语法 Disable 掉。
