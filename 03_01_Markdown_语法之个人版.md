@@ -5,7 +5,7 @@
 > [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 
 ### 实例 vs 反例
-一般来说，数量为两个基本就能说明问题了。
+一般来说，一两个例子基本就能说明清楚问题了。
 
 > * // > * 之间有或者说一般会有一个空格
 > * 
