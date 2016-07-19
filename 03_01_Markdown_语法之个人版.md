@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 ## Markdown 语法之个人版
 
 ### 本文目的
@@ -9,6 +15,9 @@
 > [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 
 ###能与不能
+>* \>* 与其后内容之间需要空格
+>* >* 之间不需要空格
+>* >* 之间两个空格或两个以上空格是再缩进
 > * 加粗 ** 不能有空格
 > * 标题 # 空格可有可无，且数量不限
 
