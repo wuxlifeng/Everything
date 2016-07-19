@@ -12,7 +12,31 @@
 > * 最后总结成第一份个人版 Cheatsheet
 
 ### 无论怎样，基础的基础在这里
-> [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+>* [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+>* Markdown [Wikipedia EN](https://en.wikipedia.org/wiki/Markdown)
+>* Markdown [Wikipedia 中文](https://zh.wikipedia.org/wiki/Markdown)
+>  * 图片
+>  * 换行；在文本中输入的换行会从最终生成的结果中删除，浏览器会根据可用空间自动换行。如果想强迫换行，可以在行尾插入至少两个空格。
+>  * 强调；强调、加重强调、特别强调
+>  * 代码
+>  * 标题；#；======，--------
+>  * 断行；如果你真的想在Markdown中插入换行标签<br/>，你可以在行尾输入两个或以上的空格，然后回车。这样插入换行十分麻烦，但是“每个换行都转换为<br/>”在 Markdown中并不合适，所以只在你确定你需要时手动添加。
+>  * 引用；引用可以嵌套
+>  * 链接
+>  * 水平分区线
+>  * 
+>  * [wikipedia][1]
+>  * [wikipedia][2]
+>  * [wikipedia][1]
+>  * 
+>  * 
+>  * 
+>  * 
+
+[1]:https://zh.wikipedia.org/wiki/Markdown
+[2]:http://site.uit.no/english/words/intense/
+
+
 
 ###能与不能
 >* \>* 与其后内容之间需要空格
