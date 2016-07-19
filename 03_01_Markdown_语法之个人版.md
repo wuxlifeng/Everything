@@ -8,6 +8,10 @@
 ### 无论怎样，基础的基础在这里
 > [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 
+###能与不能
+> * 加粗 ** 不能有空格
+> * 标题 # 空格可有可无，且数量不限
+
 ### 实例 vs 反例
 一般来说，一两个例子基本就能说明清楚问题了。
 
