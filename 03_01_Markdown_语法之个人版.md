@@ -50,6 +50,8 @@
 > * 加粗 ** 不能有空格
 > * 标题 # 空格可有可无，且数量不限
 
+
+
 ### 实例 vs 反例
 一般来说，一两个例子基本就能说明清楚问题了。
 
@@ -65,6 +67,20 @@
 > 标记：Run `brew help` to get started
 
 > Strikethrough 删除线，use `~~` for ~~ksdfghj~~
+
+
+
+Markdown-here
+===
+Markdown-here
+---
+Markdown-here
+------
+####Markdown-here
+#####Markdown-here
+######Markdown-here
+
+
 
 ### 意外发现
 要实现意外发现，需要先把 Markdown 语法 Disable 掉。
