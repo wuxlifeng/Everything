@@ -3,6 +3,10 @@
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+
+个人记录整理：
+----
+
 * 内容分类。主要为：写作、笔记之读书影视音乐、what、how、奇门、工作。
 
 
