@@ -3,7 +3,7 @@
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-
+* 内容分类。主要为：写作、笔记之读书影视音乐、what、how、奇门、工作。
 
 
 ## Markdown 语法之个人版
@@ -111,4 +111,3 @@ Markdown-here
 > * disable markdown
 >   * \ 或 \ \
 > * 
-
