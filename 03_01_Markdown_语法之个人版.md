@@ -9,6 +9,9 @@ Format: ![Alt Text](url)
 
 * 内容分类。主要为：写作、笔记之读书影视音乐、what、how、奇门、工作。
 
+iOS 自动列表会保留 markdown 所需的 *。例如，在备忘录中 * 正常输入，点空格后会自动转换为列表前的点；换行后第二个点自动产生，拷贝备忘录文字到 markdown，显示格式如下：
+* GitHub
+* Git
 
 ## Markdown 语法之个人版
 
