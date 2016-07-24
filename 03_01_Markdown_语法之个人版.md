@@ -1,5 +1,9 @@
 
 
+* 整理出本教程    // 带星号 * 行行文结束（有文字非空行）会自动产生下一行星号 *
+  * 条例清晰      // 同上
+
+
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
