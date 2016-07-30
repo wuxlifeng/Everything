@@ -8,6 +8,9 @@ And this:
 <font color='red'>Text你好</font>
 
 
+!pic[test](http://science-all.com/image.php?pic=/images/wallpapers/picture/picture-1.jpg)
+
+
 ---
 上面直线：空行 + 三个或以上---，参见 http://blog.csdn.net/dslztx/article/details/50396685
 很好的资料
