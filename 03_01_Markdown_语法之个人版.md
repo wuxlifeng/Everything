@@ -8,7 +8,7 @@ And this:
 <font color='red'>Text你好</font>
 
 
-! pic[test](http://science-all.com/image.php?pic=/images/wallpapers/picture/picture-1.jpg)
+![test](http://science-all.com/image.php?pic=/images/wallpapers/picture/picture-1.jpg)
 
 
 ---
