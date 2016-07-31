@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [ertyui](content.md)
+* [Content](content.md)
 
