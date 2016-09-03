@@ -1,16 +1,8 @@
 
 
-<span style="color: green"> Some green text </span>
-And this:
+图片语法：
+> ![ ]()
 
-<font color="green"> Some green text </font>
-
-<font color='red'>Text你好</font>
-
-
-![test](http://octodex.github.com/images/octdrey-catburn.jpg)
-![fgskdjhfjk](https://github.com/wuxlifeng/Everything/blob/master/Screen%20Shot%202016-07-28%20at%2019.53.13.png)
-![fhsfj](Screen%20Shot%202016-07-28%20at%2019.53.13.png)
 
 
 ---
